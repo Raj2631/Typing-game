@@ -1,2 +1,4 @@
-# Typing-game
-Typing game (DOM intervals events)
+## Speed Typer Typing Game
+
+Game to beat the clock by typing random words
+
